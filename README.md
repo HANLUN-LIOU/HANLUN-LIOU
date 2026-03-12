@@ -2,7 +2,6 @@
 
 ### About me
 
-🎓 NCHU, Computer Engineering
-
-👯 Student Association of CE Department member
+🎓 M.S. Student, EE, National Cheng Kung University  
+🎓 B.S., Computer Science, National Chung Hsing University
 
